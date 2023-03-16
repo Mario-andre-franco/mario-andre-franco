@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&logo=git&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&logo=docker&color=000" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
