@@ -5,7 +5,8 @@
 	<a href="https://www.instagram.com/eusouaquelemario/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-andre-franco&color=blue" alt="Profile views" /> </p>
 
 #### Main skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
