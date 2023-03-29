@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/mario-andr%C3%A9-franco-3026849a"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/eusouaquelemario/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
 </p>
 
 <!-- Profile Views -->
