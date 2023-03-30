@@ -1,12 +1,17 @@
 ## Hi, I'm Mario. Developer who is always in development.
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/mario-andr%C3%A9-franco-3026849a"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
-</p>
-
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-andre-franco&color=blue" alt="Profile views" /> </p>
+
+
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/mario-andré-franco-3026849a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:mario.andre.franco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/eusouaquelemario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 
 #### Main skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
