@@ -31,5 +31,3 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;	
-
-[![Mario André github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mario-andre-franco&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
